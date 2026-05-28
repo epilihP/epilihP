@@ -1,4 +1,4 @@
-```markdown
+```
 
 **Estudante de Engenharia da Computação | Entusiasta em Robótica | Movido pelo Aprendizado Contínuo**
 
